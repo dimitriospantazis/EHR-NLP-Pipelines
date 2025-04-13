@@ -5,6 +5,8 @@ This project demonstrates and compare two Natural Language Processing (NLP) pipe
 - **TF-IDF Pipeline:** Uses traditional bag-of-words representations with TF-IDF weighting combined with Logistic Regression.
 - **ClinicalBERT Pipeline:** Leverages contextualized embeddings from the Bio_ClinicalBERT model (a version of ClinicalBERT fine-tuned on clinical data) with Logistic Regression.
 
+The **MTSamples dataset** is a collection of real-world clinical transcriptions, originally published on [mtsamples.com](https://www.mtsamples.com/), and commonly used for training and evaluating natural language processing (NLP) models in the medical and clinical domain.
+
 ## Table of Contents
 
 - [Overview](#overview)
